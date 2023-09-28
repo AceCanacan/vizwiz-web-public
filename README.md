@@ -2,6 +2,11 @@
 
 _An AI-powered app to automatically generate Data Science code from a CSV file, exploring the application of LLMs in the field of Data Science._ Explore the app [here](http://aws-amplify-dummy-link.com).
 
+<img width="1470" alt="Screen Shot 2023-09-28 at 4 20 03 PM" src="https://github.com/AceCanacan/vizwiz-web-public/assets/110709199/cdcebdc2-d6ba-48f2-ba36-cfe8d151da73">
+<img width="1470" alt="Screen Shot 2023-09-28 at 4 20 13 PM" src="https://github.com/AceCanacan/vizwiz-web-public/assets/110709199/90d87e17-cbda-4d07-ad12-b89c055022cd">
+<img width="1470" alt="Screen Shot 2023-09-28 at 4 21 26 PM" src="https://github.com/AceCanacan/vizwiz-web-public/assets/110709199/3236fdb0-8fd7-4515-8058-d97588932eea">
+
+
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
 - [🔧 Installation](#-installation)
