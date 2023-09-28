@@ -1,6 +1,6 @@
-# 📝 Syntask 📝
+# 🧙‍♂️ VizWiz 🧙‍♂️
 
-_An AI-powered app designed to synthesize tasks and create comprehensive step-by-step plans._ Explore the app [here](http://aws-amplify-dummy-link.com).
+_An AI-powered app to automatically generate Data Science code from a CSV file, exploring the application of LLMs in the field of Data Science._ Explore the app [here](http://aws-amplify-dummy-link.com).
 
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
@@ -13,7 +13,7 @@ _An AI-powered app designed to synthesize tasks and create comprehensive step-by
 
 ## 📖 Project Description
 
-Syntask is transforming the way individuals approach task management. It allows users to input various tasks, like project building components, and the AI synthesizes these to create detailed, comprehensive steps on how to accomplish each task, making task management effortless and efficient.
+VizWiz revolutionizes Data Science by allowing users to upload a CSV file and automatically generating Data Science code. This code could range from data cleaning, feature engineering, visualization, to even creating machine learning models, all aimed at exploring the utility of LLMs in Data Science.
 
 ### 🛠 Technologies Used:
 - ReactJS
@@ -23,24 +23,30 @@ Syntask is transforming the way individuals approach task management. It allows 
 - Navigating the intricacies of the OpenAI API, especially prompt engineering.
 
 ### 🔜 Future Improvements:
-- Enhancement of storage features, including backend integration for persistent storage of tasks and their synthesized steps.
+- More input and validation from Data Scientists for increased precision.
+- Enhanced integration of SQL for comprehensive data handling.
 
 ## 🔧 Installation
 1. 📥 Ensure all prerequisites required by ReactJS are installed.
 2. 🔑 Obtain a key for the OpenAI API.
 3. 📦 Install OpenAI.
+4. Run everything on Visual Studio.
 
 ## 🚀 Usage
 
-Post-installation, users can interact with Syntask through web browsers, inputting tasks and receiving synthesized, comprehensive step-by-step plans to accomplish them.
+Post-installation, users can upload CSV files and interact with VizWiz through web browsers to generate a myriad of Data Science code.
 
 ## ✨ Features
-- **📋 Local Storage of Tasks:**
-   Users can store tasks locally on their devices.
-- **🔄 Synthesize Ideas:**
-   The AI processes the input tasks and synthesizes them into detailed steps.
-- **📄 Comprehensive Task List:**
-   Users receive an organized, detailed task list making the execution straightforward.
+- **📈 Interpret Dataset:** 
+   The entire uploaded dataset is interpreted by the app.
+- **🧹 Data Cleaning:**
+   Generates code for cleaning and pre-processing the dataset.
+- **🛠 Feature Engineering:**
+   Creates code for engineering features based on the uploaded dataset.
+- **🎨 Visualization:**
+   Offers code for visualizing various aspects of the dataset.
+- **🤖 Machine Learning:**
+   Provides code to create machine learning models based on the dataset.
 
 ## 👥 Credits
 🙋‍♂️ Developed solely by me.
@@ -49,4 +55,4 @@ Post-installation, users can interact with Syntask through web browsers, inputti
 Adherence to the terms and regulations of the OpenAI API is mandatory.
 
 ## 🤝 Contribution
-Interested in enhancing Syntask? Fork the project and contribute! Just remember to credit me in your contributions.
+Feel free to contribute to the development of VizWiz! Just remember to credit me for your contributions. You have the freedom to innovate and improve upon this project.
